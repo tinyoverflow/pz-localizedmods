@@ -25,7 +25,8 @@ class TranslationWriter
 
     private function buildFileContent(string $locale, string $section, array $data): string
     {
-        $fileContent = "{$section}_{$locale} = {\n";
+        $sanitizedSection = str_replace('_', '', $section);
+        $fileContent = "{$sanitizedSection}_{$locale} = {\n";
 
         foreach ($data as $key => $value) {
             $fileContent .= "    $key = \"$value\"\n";

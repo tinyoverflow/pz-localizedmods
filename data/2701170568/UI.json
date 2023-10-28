@@ -1,0 +1,17 @@
+{
+  "UI_ExtraMapSymbolsUI_Options": {
+    "DE": "Optionen"
+  },
+  "UI_ExtraMapSymbolsUI_OptionsAlternativeSymbols": {
+    "DE": "Zufällige Symbolvariante verwenden"
+  },
+  "UI_ExtraMapSymbolsUI_OptionsColumns": {
+    "DE": "Spalten"
+  },
+  "UI_ExtraMapSymbolsUI_OptionsScalingStep": {
+    "DE": "Skalierungsschritte"
+  },
+  "UI_ExtraMapSymbolsUI_OptionsScalingTooltip": {
+    "DE": "Nummernblock +/-: Symbol-/Textgröße ändern<br>Nummernblock Enter: Zurücksetzen"
+  }
+}

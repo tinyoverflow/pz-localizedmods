@@ -1,0 +1,11 @@
+{
+  "Tooltip_Map_CantWrite": {
+    "DE": "Benötigt einen Kugelschreiber, Bleistift oder Wachsmalstift."
+  },
+  "Tooltip_Map_CantEdit": {
+    "DE": "Benötigt ein Radiergummi, sowie einen Kugelschreiber, Bleistift oder Wachsmalstift."
+  },
+  "Tooltip_ExtraMapSymbolsUI_NeedCrayons": {
+    "DE": "Benötigt eine Packung Wachsmalstifte."
+  }
+}

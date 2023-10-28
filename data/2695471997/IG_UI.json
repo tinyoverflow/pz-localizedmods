@@ -1,0 +1,32 @@
+{
+  "IGUI_CUI_Display_slot_label": {
+    "DE": "Beschriftung ein-/ausblenden"
+  },
+  "IGUI_CUI_Display_slot_label_tooltip": {
+    "DE": "Blende die Beschriftung der Kleidung ein oder aus."
+  },
+  "IGUI_CUI_Slot_label_margin": {
+    "DE": "Beschriftungsabstand"
+  },
+  "IGUI_CUI_Slot_label_margin_tooltip": {
+    "DE": "Abstand zwischen Beschriftung und Icon."
+  },
+  "IGUI_CUI_Slot_horizontal_spacing": {
+    "DE": "Horizontaler Abstand zwischen den Slots."
+  },
+  "IGUI_CUI_Slot_horizontal_spacing_tooltip": {
+    "DE": "Horizontaler Abstand zwischen den Icons."
+  },
+  "IGUI_CUI_Slot_vertical_spacing": {
+    "DE": "Vertikaler Abstand zwischen den Slots."
+  },
+  "IGUI_CUI_Slot_vertical_spacing_tooltip": {
+    "DE": "Vertikaler Abstand zwischen den Icons."
+  },
+  "IGUI_CUI_Slot_button_size": {
+    "DE": "Größe der Slot-Icons"
+  },
+  "IGUI_CUI_Slot_button_size_tooltip": {
+    "DE": "Größe der Schaltfläche"
+  }
+}
