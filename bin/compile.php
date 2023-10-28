@@ -3,6 +3,7 @@
 require_once __DIR__ . "/../vendor/autoload.php";
 
 use App\TranslationCollection;
+use App\TranslationWriter;
 
 
 $files = glob('data/**/*.json');
@@ -30,27 +31,15 @@ foreach ($files as $file) {
 }
 
 // Write Files
+$writer = new TranslationWriter('output');
 foreach ($collection->getLocales() as $locale) {
-    $localeDir = "output/{$locale}";
-    if (!file_exists($localeDir)) {
-        mkdir($localeDir, recursive: true);
-    }
-
     foreach ($collection->getSections() as $section) {
-        $file = "{$section}_{$locale}";
-        $data = [$file => $collection->getSectionTranslations($section, $locale)];
+        $translations = $collection->getSectionTranslations($section, $locale);
 
-        $fileContent = "$file = {\n";
-
-        foreach ($collection->getSectionTranslations($section, $locale) as $key => $value) {
-            $fileContent .= "    $key = \"$value\"\n";
+        if (empty($translations)) {
+            continue;
         }
 
-        $fileContent .= "}";
-
-        file_put_contents(
-            "output/{$locale}/{$file}.txt",
-            $fileContent
-        );
+        $writer->write($locale, $section, $translations);
     }
 }

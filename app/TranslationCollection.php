@@ -1,6 +1,6 @@
 <?php
 
-namespace app;
+namespace App;
 
 class TranslationCollection {
     private array $translations;
@@ -30,7 +30,7 @@ class TranslationCollection {
 
     public function getSectionTranslations(string $section, string $locale): array
     {
-        return $this->translations[$section][$locale];
+        return $this->translations[$section][$locale] ?? [];
     }
 
     public function getLocales(): array
