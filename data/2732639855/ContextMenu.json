@@ -1,0 +1,29 @@
+{
+  "ContextMenu_Add_Water_To_Trailer": {
+    "DE": "Tank auffüllen"
+  },
+  "ContextMenu_VehicleAddWater": {
+    "DE": "In Tank umfüllen"
+  },
+  "ContextMenu_VehicleSiphonWater": {
+    "DE": "In Behälter abzapfen"
+  },
+  "ContextMenu_VehicleAddSingleWater": {
+    "DE": "Wasser hinzufügen aus<br>"
+  },
+  "ContextMenu_VehicleAddWaterToItem": {
+    "DE": "Behälter befüllen"
+  },
+  "ContextMenu_VehicleAddWaterToSingleItem": {
+    "DE": "<br>aus dem Tank"
+  },
+  "ContextMenu_Open_TankLid": {
+    "DE": "Tankklappe öffnen"
+  },
+  "ContextMenu_Close_TankLid": {
+    "DE": "Tankklappe schließen"
+  },
+  "ContextMenu_Drain_Tank": {
+    "DE": "Wasser ablassen"
+  }
+}

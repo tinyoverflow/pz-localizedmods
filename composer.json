@@ -1,0 +1,20 @@
+{
+  "name": "tinyoverflow/pz-localizedmods",
+  "description": "Provides a single point for translation for all Steam workshop mods.",
+  "type": "project",
+  "license": "GPL-3.0-only",
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Felix Stieglitz",
+      "email": "6287093+tinyoverflow@users.noreply.github.com",
+      "homepage": "https://tinyoverflow.me"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {}
+}
