@@ -1,0 +1,185 @@
+{
+  "IGUI_ItemCat_Appear": {
+    "DE": "Auftreten"
+  },
+  "IGUI_ItemCat_Clean": {
+    "DE": "Reinigung"
+  },
+  "IGUI_ItemCat_ClothAcc": {
+    "DE": "Kleidung - Accessoire"
+  },
+  "IGUI_ItemCat_ClothArm": {
+    "DE": "Kleidung - Arme/Hände"
+  },
+  "IGUI_ItemCat_ClothBack": {
+    "DE": "Kleidung - Rucksack"
+  },
+  "IGUI_ItemCat_ClothBag": {
+    "DE": "Kleidung - Tasche"
+  },
+  "IGUI_ItemCat_ClothBody": {
+    "DE": "Kleidung - Oberkörper"
+  },
+  "IGUI_ItemCat_ClothFeet": {
+    "DE": "Kleidung - Füße"
+  },
+  "IGUI_ItemCat_ClothHead": {
+    "DE": "Kleidung - Kopf"
+  },
+  "IGUI_ItemCat_ClothJew": {
+    "DE": "Kleidung - Schmuck"
+  },
+  "IGUI_ItemCat_ClothLeg": {
+    "DE": "Kleidung - Beine"
+  },
+  "IGUI_ItemCat_ClothMisc": {
+    "DE": "Kleidung - Sonstiges"
+  },
+  "IGUI_ItemCat_ClothUnder": {
+    "DE": "Kleidung - Unterwäsche"
+  },
+  "IGUI_ItemCat_Collect": {
+    "DE": "Sammelstück"
+  },
+  "IGUI_ItemCat_Cont": {
+    "DE": "Behälter"
+  },
+  "IGUI_ItemCat_Cook": {
+    "DE": "Kochen"
+  },
+  "IGUI_ItemCat_CookB": {
+    "DE": "Kochen - Brauen"
+  },
+  "IGUI_ItemCat_Craft": {
+    "DE": "Handwerk"
+  },
+  "IGUI_ItemCat_CraftAmmo": {
+    "DE": "Handwerk - Munition"
+  },
+  "IGUI_ItemCat_CraftCarp": {
+    "DE": "Handwerk - Tischlerei"
+  },
+  "IGUI_ItemCat_CraftElec": {
+    "DE": "Handwerk - Elektronik"
+  },
+  "IGUI_ItemCat_CraftMas": {
+    "DE": "Handwerk - Maurer"
+  },
+  "IGUI_ItemCat_CraftMetal": {
+    "DE": "Handwerk - Metallbearbeitung"
+  },
+  "IGUI_ItemCat_CraftTailor": {
+    "DE": "Handwerk - Schneiderei"
+  },
+  "IGUI_ItemCat_Drugs": {
+    "DE": "Drogen"
+  },
+  "IGUI_ItemCat_Elec": {
+    "DE": "Elektronik"
+  },
+  "IGUI_ItemCat_FoodA": {
+    "DE": "Nahrung - Alcohol"
+  },
+  "IGUI_ItemCat_FoodP": {
+    "DE": "Nahrung - Verderblich"
+  },
+  "IGUI_ItemCat_FoodN": {
+    "DE": "Nahrung - Haltbar"
+  },
+  "IGUI_ItemCat_FoodB": {
+    "DE": "Nahrung - Getränk"
+  },
+  "IGUI_ItemCat_Fuel": {
+    "DE": "Kraftstoff"
+  },
+  "IGUI_ItemCat_Furn": {
+    "DE": "Möbel"
+  },
+  "IGUI_ItemCat_Junk": {
+    "DE": "Müll"
+  },
+  "IGUI_ItemCat_Key": {
+    "DE": "Schlüssel"
+  },
+  "IGUI_ItemCat_LitC": {
+    "DE": "Literatur - Kartografie"
+  },
+  "IGUI_ItemCat_LitS": {
+    "DE": "Literatur - Fähigkeit"
+  },
+  "IGUI_ItemCat_LitR": {
+    "DE": "Literatur - Rezept"
+  },
+  "IGUI_ItemCat_LitE": {
+    "DE": "Literatur - Unterhaltung"
+  },
+  "IGUI_ItemCat_LitW": {
+    "DE": "Literatur - Schreiben"
+  },
+  "IGUI_ItemCat_Mech": {
+    "DE": "Mechanik"
+  },
+  "IGUI_ItemCat_MediaA": {
+    "DE": "Medien - Audio"
+  },
+  "IGUI_ItemCat_MediaG": {
+    "DE": "Medien - Spiel"
+  },
+  "IGUI_ItemCat_MediaV": {
+    "DE": "Medien - Video"
+  },
+  "IGUI_ItemCat_Med": {
+    "DE": "Medizinisch"
+  },
+  "IGUI_ItemCat_Misc": {
+    "DE": "Verschiedenes"
+  },
+  "IGUI_ItemCat_Paint": {
+    "DE": "Farbe"
+  },
+  "IGUI_ItemCat_SurCamp": {
+    "DE": "Überleben - Zelten"
+  },
+  "IGUI_ItemCat_SurFarm": {
+    "DE": "Überleben - Landwirtschaft"
+  },
+  "IGUI_ItemCat_SurFish": {
+    "DE": "Überleben - Fischen"
+  },
+  "IGUI_ItemCat_SurTrap": {
+    "DE": "Überleben - Fallenstellen"
+  },
+  "IGUI_ItemCat_Tool": {
+    "DE": "Werkzeug"
+  },
+  "IGUI_ItemCat_Ammo": {
+    "DE": "Munition"
+  },
+  "IGUI_ItemCat_WepAmmoMag": {
+    "DE": "Waffe - Waffenmagazin"
+  },
+  "IGUI_ItemCat_WepAmmoMagF": {
+    "DE": "Waffe - Waffenmagazin"
+  },
+  "IGUI_ItemCat_WepBomb": {
+    "DE": "Waffe - Bombe"
+  },
+  "IGUI_ItemCat_WepBow": {
+    "DE": "Waffe - Bogen"
+  },
+  "IGUI_ItemCat_WepFire": {
+    "DE": "Waffe - Fernkampf"
+  },
+  "IGUI_ItemCat_WepMelee": {
+    "DE": "Waffe - Nahkampf"
+  },
+  "IGUI_ItemCat_WepPart": {
+    "DE": "Waffe - Teil"
+  },
+  "IGUI_ItemCat_WepRange": {
+    "DE": "Waffe - Fernkampf"
+  },
+  "IGUI_ItemCat_WepShield": {
+    "DE": "Waffe - Schild"
+  }
+}

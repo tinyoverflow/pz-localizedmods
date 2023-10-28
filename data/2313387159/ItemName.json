@@ -1,0 +1,143 @@
+{
+  "ItemName_Base.PaintBlack": {
+    "DE": "Farbe - Schwarz"
+  },
+  "ItemName_Base.PaintBlue": {
+    "DE": "Farbe - Blau"
+  },
+  "ItemName_Base.PaintBrown": {
+    "DE": "Farbe - Braun"
+  },
+  "ItemName_Base.PaintCyan": {
+    "DE": "Farbe - Cyan"
+  },
+  "ItemName_Base.PaintGreen": {
+    "DE": "Farbe - Grün"
+  },
+  "ItemName_Base.PaintGrey": {
+    "DE": "Farbe - Grau"
+  },
+  "ItemName_Base.PaintLightBlue": {
+    "DE": "Farbe - Hellblau"
+  },
+  "ItemName_Base.PaintLightBrown": {
+    "DE": "Farbe - Hellbraun"
+  },
+  "ItemName_Base.PaintOrange": {
+    "DE": "Farbe - Orange"
+  },
+  "ItemName_Base.PaintPink": {
+    "DE": "Farbe - Rosa"
+  },
+  "ItemName_Base.PaintPurple": {
+    "DE": "Farbe - Lila"
+  },
+  "ItemName_Base.PaintRed": {
+    "DE": "Farbe - Rot"
+  },
+  "ItemName_Base.PaintTurquoise": {
+    "DE": "Farbe - Türkis"
+  },
+  "ItemName_Base.PaintWhite": {
+    "DE": "Farbe - Weiß"
+  },
+  "ItemName_Base.PaintYellow": {
+    "DE": "Farbe - Gelb"
+  },
+  "ItemName_Radio.TvAntique": {
+    "DE": "Fernseher - Antik"
+  },
+  "ItemName_Radio.TvWideScreen": {
+    "DE": "Fernseher - Premium Technologies"
+  },
+  "ItemName_Radio.TvBlack": {
+    "DE": "Fernseher - ValuTech"
+  },
+  "ItemName_Base.Radio": {
+    "DE": "Radio"
+  },
+  "ItemName_Radio.RadioRed": {
+    "DE": "Radio - Premium Technologies"
+  },
+  "ItemName_Radio.RadioBlack": {
+    "DE": "Radio - ValuTech"
+  },
+  "ItemName_Radio.RadioMakeShift": {
+    "DE": "Radio - Improvisiert"
+  },
+  "ItemName_Radio.HamRadio1": {
+    "DE": "Radio - Stationsfunkgerät"
+  },
+  "ItemName_Radio.HamRadio2": {
+    "DE": "Radio - Stationsfunkgerät (Militär)"
+  },
+  "ItemName_Radio.HamRadioMakeShift": {
+    "DE": "Radio - Stationsfunkgerät (Improvisiert)"
+  },
+  "ItemName_Radio.WalkieTalkie1": {
+    "DE": "Walkie Talkie - Toys-R-Mine"
+  },
+  "ItemName_Radio.WalkieTalkie2": {
+    "DE": "Walkie Talkie - ValuTech"
+  },
+  "ItemName_Radio.WalkieTalkie3": {
+    "DE": "Walkie Talkie - Premium Technologies"
+  },
+  "ItemName_Radio.WalkieTalkie4": {
+    "DE": "Walkie Talkie - Polizei"
+  },
+  "ItemName_Radio.WalkieTalkie5": {
+    "DE": "Walkie Talkie - Militär"
+  },
+  "ItemName_Radio.WalkieTalkieMakeShift": {
+    "DE": "Walkie Talkie - Improvisiert"
+  },
+  "ItemName_Base.LightBulbBlue": {
+    "DE": "Glühbirne - Blau"
+  },
+  "ItemName_Base.LightBulbCyan": {
+    "DE": "Glühbirne - Cyan"
+  },
+  "ItemName_Base.LightBulbGreen": {
+    "DE": "Glühbirne - Grün"
+  },
+  "ItemName_Base.LightBulb": {
+    "DE": "Glühbirne - Weiß"
+  },
+  "ItemName_Base.LightBulbMagenta": {
+    "DE": "Glühbirne - Magenta"
+  },
+  "ItemName_Base.LightBulbOrange": {
+    "DE": "Glühbirne - Orange"
+  },
+  "ItemName_Base.LightBulbPink": {
+    "DE": "Glühbirne - Rosa"
+  },
+  "ItemName_Base.LightBulbPurple": {
+    "DE": "Glühbirne - Lila"
+  },
+  "ItemName_Base.LightBulbRed": {
+    "DE": "Glühbirne - Rot"
+  },
+  "ItemName_Base.LightBulbYellow": {
+    "DE": "Glühbirne - Gelb"
+  },
+  "ItemName_Base.BluePen": {
+    "DE": "Stift - Blau"
+  },
+  "ItemName_Base.RedPen": {
+    "DE": "Stift - Rot"
+  },
+  "ItemName_Base.Pen": {
+    "DE": "Stift - Schwarz"
+  },
+  "ItemName_Base.LogStacks4": {
+    "DE": "Holzstapel (4 Stämme)"
+  },
+  "ItemName_Base.LogStacks3": {
+    "DE": "Holzstapel (3 Stämme)"
+  },
+  "ItemName_Base.LogStacks2": {
+    "DE": "Holzstapel (2 Stämme)"
+  }
+}
