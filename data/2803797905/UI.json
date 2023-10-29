@@ -1,11 +1,11 @@
 {
   "UI_OBSubMenu": {
-    "DE": "Outfit Bag"
+    "DE": "Kleiderbeutel"
   },
   "UI_OBRetreiveOutfit": {
-    "DE": "Retreive Outfit"
+    "DE": "Outfit anziehen"
   },
   "UI_OBStoreOutfit": {
-    "DE": "Store Outfit"
+    "DE": "Outfit ablegen"
   }
 }
