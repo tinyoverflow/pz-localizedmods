@@ -20,7 +20,11 @@ class TranslationWriter
             mkdir($directoryPath, recursive: true);
         }
 
-        return !!file_put_contents($filePath, $this->buildFileContent($locale, $section, $data));
+        $file = fopen($filePath, 'w+');
+        $success = !!fwrite($file, $this->buildFileContent($locale, $section, $data));
+        fclose($file);
+
+        return $success;
     }
 
     private function buildFileContent(string $locale, string $section, array $data): string
@@ -34,7 +38,7 @@ class TranslationWriter
 
         $fileContent .= "}";
 
-        return $fileContent;
+        return mb_convert_encoding($fileContent, 'Windows-1252');
     }
 
     private function buildPath(string...$parts): string
