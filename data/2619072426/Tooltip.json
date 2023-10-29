@@ -1,0 +1,11 @@
+{
+  "Tooltip_TheStar_AmmoCount": {
+    "DE": "Munition im Inventar"
+  },
+  "Tooltip_TheStar_AmmoCount_Total": {
+    "DE": "Insgesamt: %1"
+  },
+  "Tooltip_TheStar_BatteryCharge": {
+    "DE": "Aufladung verbleibend: ~%1:%2 Stunden"
+  }
+}

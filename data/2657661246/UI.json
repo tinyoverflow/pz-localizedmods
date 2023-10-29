@@ -1,0 +1,20 @@
+{
+  "UI_RainWash_Multiplier": {
+    "DE": "Multiplikator"
+  },
+  "UI_RainWash_Multiplier_Tooltip": {
+    "DE": "Je höher der Multiplikator, desto schneller wird Blut von Kleidung und Fahrzeugen abgewaschen."
+  },
+  "UI_RainWash_Vehicle": {
+    "DE": "Fahrzeug"
+  },
+  "UI_RainWash_Vehicle_Tooltip": {
+    "DE": "Nur das Fahrzeug, in dem du dich befindest, sowie das angehängte Fahrzeug werden gewaschen."
+  },
+  "UI_RainWash_RecentVehicle": {
+    "DE": "Zuletzt verwendetes Fahrzeug"
+  },
+  "UI_RainWash_RecentVehicle_Tooltip": {
+    "DE": "Das Fahrzeug wird nach dem Aussteigen ebenfalls gewaschen."
+  }
+}
