@@ -1,0 +1,11 @@
+{
+    "Sandbox_ProxInv": {
+        "DE": "Inventare in der Nähe"
+    },
+    "Sandbox_ZombieOnly": {
+        "DE": "Nur für Zombies aktivieren"
+    },
+    "Sandbox_ZombieOnly_tooltip": {
+        "DE": "Aktiviere diese Option, wenn das Proximity Inventory nur bei Zombies funktionieren soll."
+    }
+}
